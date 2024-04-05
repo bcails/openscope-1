@@ -697,10 +697,12 @@
             "method": "random",
             "rate": 0.756,
             "airlines": [
+                ["amx/b73x", 1],
                 ["n/fastGA", 3],
                 ["sli", 1],
                 ["swa", 1],
                 ["ups", 1],
+                ["viv", 1],
                 ["xa/fastGA", 2]
           ]
         },
@@ -782,10 +784,12 @@
             "method": "random",
             "rate": 1.02,
             "airlines": [
+                ["amx/b73x", 1],
                 ["n/fastGA", 3],
                 ["sli", 1],
                 ["swa", 1],
                 ["ups", 1],
+                ["viv", 1],
                 ["xa/fastGA", 3]
           ]
         },
